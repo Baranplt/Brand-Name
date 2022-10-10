@@ -1,0 +1,33 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.contanier {
+    width: 100%;
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+}
+
+a {
+    text-decoration: none;
+}
+
+.flex {
+    display: flex;
+}
+
+.space-between {
+    justify-content: space-between;
+}
+
+.align-center {
+    align-items: center;
+}
+
+.position {
+    position: relative;
+}

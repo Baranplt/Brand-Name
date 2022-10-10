@@ -1,0 +1,31 @@
+.home-completed {
+
+
+    background: #F8F8F8;
+}
+
+.home-completed-title {
+
+    width: 817px;
+    height: 120px;
+    margin: 0 auto;
+
+}
+
+.home-completed-title h1 {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 60px;
+    text-align: center;
+    color: #212121;
+    margin-top: 81px;
+}
+
+.home-completed-img {
+
+    margin-top: 55px;
+}
+
+.home-completed-img img {
+    width: 100%;
+}

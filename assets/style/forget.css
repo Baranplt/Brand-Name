@@ -1,0 +1,73 @@
+.forget {
+    margin-top: 197px;
+    text-align: center;
+}
+
+.forget-title {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 28px;
+    /* identical to box height, or 58% */
+
+    letter-spacing: 0.08em;
+
+    color: #212121;
+
+}
+
+.forget-tip {
+    width: 500px;
+
+    margin: 0 auto;
+    border: 2px solid #C4C4C4;
+    margin: 40px 300px 20px 300px;
+
+    background-color: #C4C4C4;
+}
+
+.forget-text {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+    text-align: center;
+    margin-top: 40px;
+    color: #646464;
+
+}
+
+.forget-inp input {
+    width: 572px;
+    height: 40px;
+    padding: 10px;
+    margin-left: 200px;
+    background: #EEEEEE;
+    margin-bottom: 50px;
+    border-radius: 20px 0px 0px 0px;
+}
+
+.forget-inp input:focus {
+    outline: none;
+}
+
+.forget-inp-sub a {
+    color: #FFFFFF;
+}
+
+.forget-inp-sub {
+
+    width: 150px;
+    height: 44px;
+    padding: 10px;
+    background: #37806B;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 55px;
+    /* identical to box height, or 306% */
+
+    text-align: center;
+
+
+    border-radius: 0px 0px 20px 0px;
+}

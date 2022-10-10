@@ -1,0 +1,71 @@
+.client {
+    margin-top: 163px;
+}
+
+.client-top-desc h2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    text-align: center;
+    color: #646464;
+}
+
+.client-top-title h1 {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 72px;
+    text-align: center;
+    color: #212121;
+}
+
+.client-bottom-item {
+    background: #FFFFFF;
+    box-shadow: 0px 8px 20px rgba(0, 0, 0, 0.14);
+    border-radius: 60px 0px;
+    padding: 41px 10px 60px 0;
+}
+
+.client-bottom-item:not(:last-child) {
+    margin-right: 150px;
+}
+
+
+.client-bottom-item i {
+    color: black;
+}
+
+.client-bottom-item-left img {
+    border-radius: 35px 0 35px 0;
+    right: -70px;
+    position: absolute;
+}
+
+.client-bottom-item-title h1 {
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 33px;
+    /* identical to box height */
+
+
+    color: #212121;
+}
+
+.client-bottom-item-title h1 span {
+    font-size: 15px;
+    font-weight: 400;
+}
+
+.client-bottom-item-txt {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 28px;
+    /* or 156% */
+
+
+    color: #646464;
+
+}
+
+.client-bottom-item-right {
+    margin-left: 110px;
+}

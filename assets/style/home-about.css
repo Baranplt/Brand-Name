@@ -1,0 +1,63 @@
+.home-about {
+    margin-top: 204px;
+}
+
+.home-about-desc h2 {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 30px;
+    /* identical to box height, or 150% */
+
+
+    color: #646464;
+
+}
+
+.home-about-left {
+    width: 50%;
+    margin-right: 100px
+}
+
+.home-about-left img {
+    width: 100%;
+}
+
+.home-about-right {
+    width: 50%;
+}
+
+.home-about-title h1 {
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 57px;
+    /* or 119% */
+
+
+    color: #212121;
+
+}
+
+.home-about-text p {
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 30px;
+    /* or 167% */
+
+    margin-top: 22px;
+    color: #646464;
+
+}
+
+.home-about-btn {
+    background: #37806B;
+    border-radius: 20px 0px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 78px;
+    margin-top: 26px;
+    display: inline;
+    padding: 10px;
+    color: #FFFFFF;
+
+
+}
